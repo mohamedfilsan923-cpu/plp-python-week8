@@ -1,0 +1,19 @@
+WEEK 8 FINAL PROJECT: PERSONAL TOOLKIT - PLAN
+
+1. TOOLS INCLUDED
+   - Tool 1: To-Do List Manager - Lets the user add, view, and remove tasks during the session.
+   - Tool 2: Simple Calculator - Performs +, -, *, or / on two numbers safely.
+   - Tool 3: Number-Guessing Game - Picks a secret number from 1 to 20 and gives high/low hints until guessed.
+
+2. EXACT MENU TEXT
+   === PERSONAL TOOLKIT MENU ===
+   1. To-Do List Manager
+   2. Simple Calculator
+   3. Number-Guessing Game
+   4. Quit
+   Choose a tool (1-4): 
+
+3. CONCEPTS USED
+   - To-Do List Manager: list, while loop, for loop, if/elif/else conditionals, f-strings
+   - Simple Calculator: if/elif/else conditionals, try/except, f-strings
+   - Number-Guessing Game: while loop, if/elif/else conditionals, random module, f-strings
